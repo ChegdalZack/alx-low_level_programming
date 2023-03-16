@@ -1,8 +1,11 @@
 #include <stdio.h>
 /**
-* main - entry point
+* main - Entry point
 *
-* Return : always 0 (Success)
+* Description: 'printing'
+* @parameter: run puts
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
